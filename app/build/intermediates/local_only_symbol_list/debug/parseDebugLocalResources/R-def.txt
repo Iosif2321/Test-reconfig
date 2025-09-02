@@ -1,0 +1,37 @@
+R_DEF: Internal format may change without notice
+local
+color accent
+color background_light
+color black
+color card_background
+color card_tint_primary
+color chip_inactive
+color fab_bg
+color primary
+color primary_dark
+color text_primary
+color text_secondary
+color white
+drawable bg_badge_circle
+drawable rounded_button_background
+drawable rounded_card_background
+id btn_create
+id btn_menu
+id btn_rules_14
+id btn_rules_24
+id fab_badge
+id fab_dice
+id header_card
+id header_container
+id logo
+id root
+id screen_title
+layout activity_main
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+string menu
+string roll_dice
+style Theme.TestApp
+xml backup_rules
+xml data_extraction_rules
